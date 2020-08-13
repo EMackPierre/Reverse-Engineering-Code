@@ -1,0 +1,29 @@
+{
+  "name": "week14homework-reverse-engineering-code",
+  "version": "1.0.0",
+  "description": "Reverse engineer the starter code provided and create a tutorial for the code.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EMackPierre/Reverse-Engineering-Code.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "2.4.3",
+    "express": "^4.17.0",
+    "express-session": "^1.16.1",
+    "mysql2": "^1.6.5",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0",
+    "sequelize": "^5.8.6"
+  },
+  "bugs": {
+    "url": "https://github.com/EMackPierre/Reverse-Engineering-Code/issues"
+  },
+  "homepage": "https://github.com/EMackPierre/Reverse-Engineering-Code#readme"
+}
