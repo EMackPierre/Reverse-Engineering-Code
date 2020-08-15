@@ -69,13 +69,13 @@
   
   ### Tech Used
 
-    * BCRYPTJS
-    * EXPRESS
-    * EXPRESS-SESSION
-    * MYSQL2
-    * PASSPORT
-    * PASSPORT-LOCAL
-    * SEQUELIZE
+    BCRYPTJS
+    EXPRESS
+    EXPRESS-SESSION
+    MYSQL2
+    PASSPORT
+    PASSPORT-LOCAL
+    SEQUELIZE
 
   ### License
 
